@@ -1,0 +1,6 @@
+image: maven:3.3.9-jdk-7
+
+job1:
+  script:
+    - mvn compile
+    - mvn verify
