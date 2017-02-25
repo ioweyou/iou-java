@@ -24,6 +24,9 @@ SOFTWARE.
 
 # IOU Java
 
+[![Travis CI](https://travis-ci.org/ioweyou/iou-java.svg)](https://travis-ci.org/ioweyou/iou-java)
+[![License MIT](https://img.shields.io/:license-mit-blue.svg)](http://badges.mit-license.org)
+
 IOU Java is a promise-library that is based on [IOU Core](https://github.com/ioweyou/iou-core) and aside from some extensions (e.g. `IOU.when` and `Promise.fail`) adheres to the [A+ spec](https://github.com/promises-aplus/promises-spec) as closely as possible.
 
 ## Maven
